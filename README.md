@@ -2,10 +2,9 @@
 
  # TEST SUMMARY
 
-Test Suite: Register Form
-Total Tests: 5
-Passed Tests: 5
-Test Status: All tests passed
+Test Suite: 1 passed, 1 total
+Tests: 5 passed, 5 total
+Time : 4.02s
 
 
 # INSTALLATION
